@@ -1,0 +1,3 @@
+Sum: 299
+Smallest: 3
+Largest: 89
